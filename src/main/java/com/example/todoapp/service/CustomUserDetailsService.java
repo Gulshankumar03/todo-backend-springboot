@@ -1,7 +1,6 @@
-package com.example.todoapp.security;
+package com.example.todoapp.service;
 
 import com.example.todoapp.entity.User;
-import com.example.todoapp.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
